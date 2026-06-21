@@ -1,2 +1,2 @@
-# Aprendizaje-Aut-nomo-2
+# Aprendizaje-Autnomo-2
 Proyecto de lógica de programación 
