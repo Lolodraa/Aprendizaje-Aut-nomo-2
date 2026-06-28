@@ -2,9 +2,7 @@ import random
 import tkinter as tk
 from tkinter import messagebox
 
-# ----------------------------
-# Variables (igual que tu código)
-# ----------------------------
+# Variables
 minus = "abcdefghijklmnñopqrstuvwxyz"
 capital = minus.upper()
 number = "1234567890"
@@ -30,9 +28,8 @@ def generar_contraseña():
         if respuesta:
             longitud = 20
 
-    # ----------------------------
+
     # Generación segura (tu lógica)
-    # ----------------------------
     contraseña = [
         random.choice(capital),
         random.choice(minus),
@@ -67,9 +64,7 @@ def generar_contraseña():
 
     resultado.set(f"Contraseña:\n{contraseña_final}\n\nNivel: {nivel}")
 
-# ----------------------------
 # VENTANA
-# ----------------------------
 ventana = tk.Tk()
 ventana.title("Generador de Contraseñas")
 ventana.geometry("400x300")
