@@ -12,6 +12,7 @@ El sistema le permite al usuario decidir la longitud de la contraseña mediante 
 En el caso de ingresar un número de 20 o superior la ventana te dará la contraseña con la longitud elegida. 
 
 Cronograma de desarrollo
+
 SEMANA 1: 
 
 Aprendimos a como identificar problemas referentes a la programación como los Problemas heurísticos y problemas Algorítmicos. De igual manera una serie de pasos para poder identificar y resolver estos problemas. Esta semana se eligió el programa a desarrollar del cual elegí “Generador de contraseñas seguras”
