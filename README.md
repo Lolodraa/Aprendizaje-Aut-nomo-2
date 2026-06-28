@@ -8,6 +8,7 @@ Objetivo del sistema desarrollado
 Mi objetivo es crear un "Generador de contraseñas seguro" utilizando Visual Studio Code y utilizando el lenguaje de programación PYTHON. El código debe de generar de manera aleatoria una contraseña con: Caracteres, números, letras mayúsculas y minúsculas. El código debe de contener todo lo aprendido (o la mayoría) durante las 7 semanas de la asignatura de lógica de programación.
 
 Descripción breve de cómo funciona
+
 El sistema le permite al usuario decidir la longitud de la contraseña mediante un número (entre más grande sea el digito más segura será la contraseña). En caso de elegir un número menor o igual a 9, aparecerá una ventana emergente con un aviso diciendo que el nivel mínimo son 10 caracteres, en caso de ingresar una longitud superior menor o igual a 19, el programa abrirá otra ventana emergente diciendo que a la contraseña es insegura y te da 2 opciones, cambiarla por una segura (20+) o dejarla la que te va a generar.
 En el caso de ingresar un número de 20 o superior la ventana te dará la contraseña con la longitud elegida. 
 
