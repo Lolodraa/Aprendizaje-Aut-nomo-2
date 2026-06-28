@@ -1,4 +1,4 @@
-# Contacto con el Docente
+Contacto con el Docente
 Proyecto de lógica de programación: GENERADOR DE CONTRASEÑAS SEGURAS
 Andrade Macias Jhon Carlos
 27/06/2026
