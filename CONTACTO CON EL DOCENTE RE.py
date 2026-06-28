@@ -29,7 +29,7 @@ def generar_contraseña():
             longitud = 20
 
 
-    # Generación segura (tu lógica)
+    # Generación segura
     contraseña = [
         random.choice(capital),
         random.choice(minus),
